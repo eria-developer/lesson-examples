@@ -2,7 +2,7 @@ first_number = 8
 second_number = 2
 third_number = 30
 
-result_of_e xponetion = first_number ** second_number
+result_of_exponetion = first_number ** second_number
 division_with_remainder = third_number / first_number
 division_without_remainder = third_number // first_number
 
