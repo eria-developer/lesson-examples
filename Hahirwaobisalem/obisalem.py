@@ -3,7 +3,7 @@ def solve_puzzle():
   """
   Solving  a math puzzle involving exponentiation, division, and addition.
 a
-  Returns:
+  it returns
       tuple: A tuple containing the final value and its data type.
   """
 
